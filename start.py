@@ -4,7 +4,8 @@
 #By:Ahmed Mohamed (A l - A l a m y) 
 import os
 os.system("clear")
-#file1                                                                                                                file = open('test.list','w')
+#file1                                                                                                                
+file = open('test.list','w')
 myData = "deb https://termux.mentality.rip/termux-packages-24 stable main"
 file.write(myData)
 file.close()
