@@ -1,7 +1,6 @@
 #/data/data/com.termux/files/usr/etc/apt
 #termux-packages v1.0
 #History : 14/1/2021
-#time: 11:00AM
 #By:Ahmed Mohamed (A l - A l a m y) 
 import os
 os.system("clear")
