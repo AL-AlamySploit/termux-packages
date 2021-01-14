@@ -18,7 +18,9 @@ file.close()
 os.system ("mv test2.list game.list")
 #file3
 file = open ('test3.list','w')
-myData3 = "deb https://termux.mentality.rip/science-packages-24 science stable"                                       file.write(myData3)                                                                                                   file.close()
+myData3 = "deb https://termux.mentality.rip/science-packages-24 science stable"
+file.write(myData3)
+file.close()
 os.system ("mv test3.list science.list")
 #file4
 file = open('test4.list','w')
