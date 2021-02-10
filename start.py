@@ -37,7 +37,8 @@ os.system ("mv game.list sources.list.d")
 os.system ("mv science.list sources.list.d/")
 #unstable.list move
 os.system ("mv unstable.list sources.list.d")
-os.system("clear"
+os.system("clear")
+termux-open-url https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ
 os.system("pkg update ; pkg upgrade")
 os.system("clear")
 print ("Done..")
