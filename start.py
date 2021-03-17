@@ -1,7 +1,8 @@
 #/data/data/com.termux/files/usr/etc/apt
 #termux-packages v1.0
 #History : 14/1/2021
-#By:Ahmed Mohamed (A l - A l a m y) 
+#By: Ahmed Mohamed (A l - A l a m y) 
+#Channel : https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA
 import os
 os.system("clear")
 #file1                                                                                                                
@@ -38,7 +39,7 @@ os.system ("mv science.list sources.list.d/")
 #unstable.list move
 os.system ("mv unstable.list sources.list.d")
 os.system("clear")
-os.system("termux-open-url https://www.youtube.com/channel/UCQuGjfmo04jDd6zlBscslGQ")
+os.system("termux-open-url https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA")
 os.system("pkg update ; pkg upgrade")
 os.system("clear")
 print ("Done..")
