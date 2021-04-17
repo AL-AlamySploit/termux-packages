@@ -7,5 +7,5 @@ import os
 os.system("clear")
 os.system("mv update.py /data/data/com.termux/files/usr/etc/apt")
 n = input ("What is your name: ")
-print (n+" Write this command 1: cd /data/data/com.termux/files/usr/etc/apt ")
-print (" Write this command 2: python update.py")
+print (n+"Type command 1: cd /data/data/com.termux/files/usr/etc/apt ")
+print ("Type command 2: python update.py")
