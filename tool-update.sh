@@ -5,4 +5,5 @@ cd
 clear
 rm -rif termux-packages
 git clone https://github.com/AL-AlamySploit/termux-packages
+echo "Type: cd "
 echo "$A[+] Done..!"
