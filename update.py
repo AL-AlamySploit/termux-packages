@@ -4,7 +4,7 @@
 #By: Ahmed Mohamed (A 𝕝 - A 𝕝 𝕒 𝕞 𝕪) 
 #Channel : https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA
 ####################################################################
-G="\[\033[0;32m\]" # Green
+G="\033[0;32m\]" # Green
 import os
 os.system("clear")
 os.system("clear")
