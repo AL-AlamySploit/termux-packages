@@ -6,6 +6,6 @@
 import os
 os.system("clear")
 os.system("mv update.py /data/data/com.termux/files/usr/etc/apt")
-os.system("cd /data/data/com.termux/files/usr/etc/apt")
-os.system("pkg install python")
-os.system("python update.py")
+n = input ("What is your name: ")
+print (n" Write this command 1: cd /data/data/com.termux/files/usr/etc/apt ")
+print (" Write this command 2: python update.py")
