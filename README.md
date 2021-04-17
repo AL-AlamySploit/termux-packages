@@ -78,6 +78,46 @@ Android terminal and Linux environment - Solve the installation problem packages
 </tr>
 </tbody>
 </table>
+  
+  
+#Modify <code> /files/usr/etc/apt/sources.list </code> as follows 2021
+<table role="table">
+<thead>
+<tr>
+<th align="left">Repository</th>
+<th align="left">sources.list entry</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Main</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/termux-packages-24 stable stable main</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/termux/game-packages">Games</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/game-packages-24 games stable</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/termux/termux-root-packages">Root</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/termux-root-packages-24 root stable</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/termux/science-packages">Science</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/science-packages-24 science stable</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/termux/unstable-packages">Unstable</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/unstable-packages unstable main</code></td>
+</tr>
+<tr>
+<td align="left"><a href="https://github.com/termux/x11-packages">X11</a></td>
+<td align="left"><code>deb https://mirrors.ustc.edu.cn/termux/x11-packages x11 main</code></td>
+</tr>
+</tbody>
+</table>
+
+
+
 <h2>
 <a id="user-content-mirrors-by-xeffyr" class="anchor" href="#mirrors-by-xeffyr" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></path></svg></a>Mirrors by <a href="https://github.com/xeffyr">Xeffyr</a>
 </h2>
