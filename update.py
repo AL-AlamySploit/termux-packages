@@ -11,7 +11,7 @@
 #deb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-root-packages-24 root main
 #deb https://mirrors.tuna.tsinghua.edu.cn/termux/x11-packages x11 main
 ####################################################################
-G="\033[0;32m\]" # Green
+G="\033[0;32m" # Green
 import os
 os.system("clear")
 os.system("clear")
