@@ -3,7 +3,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 # How to use
 <p>Run <code>apt edit-sources</code>, comment out existing URLs and add line for picked mirror, or use the <code>termux-change-repo</code> script that is part of the <code>termux-tools</code> package.</p>
 <h2>
-<a id="user-content-mirrors-by-a1batross" class="anchor" href="#mirrors-by-a1batross" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mirrors by <a href="https://github.com/a1batross">a1batross</a>
+<a id="user-content-mirrors-by-a1batross" class="anchor" href="#mirrors-by-a1batross" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Mirrors by <a href="https://github.com/a1batross">a1batross</a>
 </h2>
 <p>Updated once per 6 hours.</p>
 <table role="table">
@@ -41,7 +41,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 </tbody>
 </table>
 <h2>
-<a id="user-content-mirrors-by-grimler" class="anchor" href="#mirrors-by-grimler" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mirrors by <a href="https://github.com/grimler91">Grimler</a>
+<a id="user-content-mirrors-by-grimler" class="anchor" href="#mirrors-by-grimler" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Mirrors by <a href="https://github.com/grimler91">Grimler</a>
 </h2>
 <p>Mirrors for termux-packages, game-packages, science-packages and termux-root-packages are updated directly from github actions. x11-packages and unstable-packages are mirrored and synchronized manually for now.</p>
 <table role="table">
@@ -79,7 +79,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 </tbody>
 </table>
 <h2>
-<a id="user-content-mirrors-by-xeffyr" class="anchor" href="#mirrors-by-xeffyr" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mirrors by <a href="https://github.com/xeffyr">Xeffyr</a>
+<a id="user-content-mirrors-by-xeffyr" class="anchor" href="#mirrors-by-xeffyr" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></path></svg></a>Mirrors by <a href="https://github.com/xeffyr">Xeffyr</a>
 </h2>
 <p>Only for installations running Android 7.0 and higher.</p>
 <p>Uses IPFS for sole purpose of delegating repository hosting to "free" high performance hosts (aka "IPFS gateways"). Decentralization and persistence are not taken into account.</p>
@@ -131,7 +131,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 </tbody>
 </table>
 <h2>
-<a id="user-content-mirrors-by-the-tsinghua-university-tuna-association" class="anchor" href="#mirrors-by-the-tsinghua-university-tuna-association" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mirrors by the <a href="https://tuna.moe/" rel="nofollow">Tsinghua University TUNA Association</a>
+<a id="user-content-mirrors-by-the-tsinghua-university-tuna-association" class="anchor" href="#mirrors-by-the-tsinghua-university-tuna-association" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Mirrors by the <a href="https://tuna.moe/" rel="nofollow">Tsinghua University TUNA Association</a>
 </h2>
 <p>Mirror for Chinese users for better ping and download speed. Only for Android 7.0 and higher.</p>
 <table role="table">
@@ -169,7 +169,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 </tbody>
 </table>
 <h2>
-<a id="user-content-mirrors-by-the-beijing-foreign-studies-university" class="anchor" href="#mirrors-by-the-beijing-foreign-studies-university" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Mirrors by the <a href="http://www.bfsu.edu.cn/" rel="nofollow">Beijing Foreign Studies University</a>
+<a id="user-content-mirrors-by-the-beijing-foreign-studies-university" class="anchor" href="#mirrors-by-the-beijing-foreign-studies-university" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Mirrors by the <a href="http://www.bfsu.edu.cn/" rel="nofollow">Beijing Foreign Studies University</a>
 </h2>
 <p>Mirror for Chinese users for better ping and download speed. Only for Android 7.0 and higher.</p>
 <table role="table">
