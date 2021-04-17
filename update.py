@@ -57,7 +57,6 @@ os.system ("mv unstable.list sources.list.d")
 os.system ("mv termux-root.list sources.list.d")
 #file xll.list move 
 os.system ("mv x11.list sources.list.d")
-os.system ("cd")
 os.system("termux-open-url https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA?sub_confirmation=1")
 os.system("pkg update ; pkg upgrade")
 os.system("clear")
