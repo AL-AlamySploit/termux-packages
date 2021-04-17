@@ -5,4 +5,3 @@ cd
 rm -rif termux-packes
 git clone https://github.com/AL-AlamySploit/termux-packages
 echo "$A[+] Done..!"
-cd
