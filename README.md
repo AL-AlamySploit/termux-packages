@@ -5,7 +5,7 @@ Android terminal and Linux environment - Solve the installation problem packages
 
 # Primary host
 A default Termux packages repository and content seeder for available mirrors. Server is behind CloudFlare to protect it against DDoS, make it available for IPv4 users (yes, our server is IPv6-only) and provide good download speeds across regions.
-<table role="table">
+<table role="table8">
 <thead>
 <tr>
 <th align="left">Repository</th>
@@ -32,6 +32,8 @@ A default Termux packages repository and content seeder for available mirrors. S
 <td align="left"><a href="https://github.com/termux/termux-packages">X11</a></td>	
 <td align="left"><code>deb https://packages.termux.org/apt/termux-x11 x11 main</code></td>
 </tr>
+</tbody>
+</table>
 Please don't use our host in your forks. Set up your own repository. Otherwise consider to contribute to our project instead of maintaining the custom fork.
 
 
