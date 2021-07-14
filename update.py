@@ -17,38 +17,38 @@ os.system("clear")
 os.system("clear")
 #file1                                                                                                                
 file = open('test.list','w')
-myData = "deb https://termux.mentality.rip/termux-packages-24 stable main"
+myData = "deb https://packages.termux.org/apt/termux-main stable main"
 file.write(myData)
 file.close()
 os.system ("mv test.list sources.list")
 os.system("cd sources.list.d")
 #file2
 file = open ('test2.list','w')
-myData2 = "deb https://termux.mentality.rip/game-packages-24 games stable"
+myData2 = "deb https://packages.termux.org/apt/termux-games games stable"
 file.write(myData2)
 file.close()
 os.system ("mv test2.list game.list")
 #file3
 file = open ('test3.list','w')
-myData3 = "deb https://termux.mentality.rip/science-packages-24 science stable"
+myData3 = "deb https://packages.termux.org/apt/termux-science science stable"
 file.write(myData3)
 file.close()
 os.system ("mv test3.list science.list")
 #file4
 file = open('test4.list','w')
-myData4 = "deb https://termux.mentality.rip/unstable-packages unstable main"
+myData4 = "deb https://packages.termux.org/apt/termux-unstable unstable main"
 file.write(myData4)
 file.close()
 os.system ("mv test4.list unstable.list")
 #file5
 file = open('test5.list','w')
-myData5 = "deb https://termux.mentality.rip/termux-root-packages-24 root stable"
+myData5 = "deb https://packages.termux.org/apt/termux-root root stable"
 file.write(myData5)
 file.close()
 os.system ("mv test5.list root.list")
 #file6
 file = open('test6.list','w')
-myData6 = "deb https://termux.mentality.rip/x11-packages x11 main"
+myData6 = "deb https://packages.termux.org/apt/termux-x11 x11 main"
 file.write(myData6)
 file.close()
 os.system ("mv test6.list x11.list")
