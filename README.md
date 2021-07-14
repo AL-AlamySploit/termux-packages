@@ -2,6 +2,39 @@
 Android terminal and Linux environment - Solve the installation problem packages repository.
 # How to use
 <p>Run <code>apt edit-sources</code>, comment out existing URLs and add line for picked mirror, or use the <code>termux-change-repo</code> script that is part of the <code>termux-tools</code> package.</p>
+
+# Primary host
+A default Termux packages repository and content seeder for available mirrors. Server is behind CloudFlare to protect it against DDoS, make it available for IPv4 users (yes, our server is IPv6-only) and provide good download speeds across regions.
+<table role="table">
+<thead>
+<tr>
+<th align="left">Repository</th>
+<th align="left">sources.list entry</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Main</a></td>
+ <td align="left"><code>deb https://packages.termux.org/apt/termux-main stable main</code></td>
+</tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Games</a></td>	
+<td align="left"><code>deb https://packages.termux.org/apt/termux-games games stable</code></td>
+</tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Root</a></td>	
+<td align="left"><code>deb https://packages.termux.org/apt/termux-root root stable</code></td>
+</tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Science</a></td>	
+<td align="left"><code>deb https://packages.termux.org/apt/termux-science science stable</code></td>
+</tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">Unstable</a></td>	
+<td align="left"><code>deb https://packages.termux.org/apt/termux-unstable unstable main</code></td>
+</tr>
+<td align="left"><a href="https://github.com/termux/termux-packages">X11</a></td>	
+<td align="left"><code>deb https://packages.termux.org/apt/termux-x11 x11 main</code></td>
+</tr>
+Please don't use our host in your forks. Set up your own repository. Otherwise consider to contribute to our project instead of maintaining the custom fork.
+
+
 <h2>
 <a id="user-content-mirrors-by-a1batross" class="anchor" href="#mirrors-by-a1batross" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Mirrors by <a href="https://github.com/a1batross">a1batross</a>
 </h2>
