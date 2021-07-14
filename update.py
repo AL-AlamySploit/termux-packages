@@ -3,6 +3,7 @@
 #History : 14/1/2021
 #By: Ahmed Mohamed (A 𝕝 - A 𝕝 𝕒 𝕞 𝕪) 
 #Channel : https://www.youtube.com/channel/UCm-UlQ6ygk4jkNfgFzlc2LA
+#update https://github.com/termux/termux-packages/wiki/Mirrors
 ####################################################################
 #deb https://mirrors.tuna.tsinghua.edu.cn/termux/termux-packages-24 stable main
 #deb https://mirrors.tuna.tsinghua.edu.cn/termux/game-packages-24 games stable
