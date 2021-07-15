@@ -8,3 +8,4 @@ git clone https://github.com/AL-AlamySploit/termux-packages
 clear
 echo "Type: cd "
 echo "$A[+] Done..!"
+exit
